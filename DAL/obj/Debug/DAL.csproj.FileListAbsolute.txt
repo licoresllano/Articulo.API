@@ -1,0 +1,11 @@
+C:\Users\Juan\source\repos\API1\DAL\bin\Debug\DAL.dll
+C:\Users\Juan\source\repos\API1\DAL\bin\Debug\DAL.pdb
+C:\Users\Juan\source\repos\API1\DAL\bin\Debug\ENTIDADES.dll
+C:\Users\Juan\source\repos\API1\DAL\bin\Debug\NLog.dll
+C:\Users\Juan\source\repos\API1\DAL\bin\Debug\ENTIDADES.pdb
+C:\Users\Juan\source\repos\API1\DAL\bin\Debug\NLog.xml
+C:\Users\Juan\source\repos\API1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\API1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\API1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Juan\source\repos\API1\DAL\obj\Debug\DAL.dll
+C:\Users\Juan\source\repos\API1\DAL\obj\Debug\DAL.pdb
